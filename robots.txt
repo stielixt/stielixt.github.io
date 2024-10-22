@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://stielixt.github.io/stielixt.stielixt
+Sitemap: https://stielixt.github.io/app/stielixt.stielixt
+Sitemap: https://stielixt.github.io/assets/stielixt.stielixt
+Sitemap: https://stielixt.github.io/css/stielixt.stielixt
+Sitemap: https://stielixt.github.io/includes/stielixt.stielixt
+Sitemap: https://stielixt.github.io/item/stielixt.stielixt
+Sitemap: https://stielixt.github.io/src/stielixt.stielixt
